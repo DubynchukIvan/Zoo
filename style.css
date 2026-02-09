@@ -353,3 +353,6 @@ footer::before {
     opacity: 0;
   }
 }
+.navigation img{filter: invert(1);
+
+}
